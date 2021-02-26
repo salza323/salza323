@@ -1,6 +1,6 @@
-### Hey there, I am Sal! 👋 👨‍💻
+## Hey there, I am Sal! 👋 👨‍💻
 
-## My Passions
+### My Passions
 
 
 - 🔭 I’m currently working on ... [Lambda Alumni Network](https://github.com/Lambda-School-Labs/lan-fe-a)
