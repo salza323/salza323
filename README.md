@@ -19,4 +19,19 @@
 - 📫 How to reach me: ... [Email Me!](mailto:sal.zamora480@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Before falling in love with coding, I built Hot Rods for a living. 
--->
+
+### My Stack
+#### Front End
+ - HTML
+ - CSS
+ - Javascript
+ - React (w/ Redux / Context API)
+ - ****Always adding more****. 
+
+
+ #### Back End
+ - Node
+ - Express
+ - SQL
+****Always Adding More****
+ - PostgreSQL
