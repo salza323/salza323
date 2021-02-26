@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on ... [Lambda Alumni Network](https://github.com/Lambda-School-Labs/lan-fe-a)
 - 🌱 I’m currently learning ... Python/Django
 - 👯 I’m looking to collaborate on ... Automobile Software Apps really interest me, but I am open to collaborate on anything. 
-- 💬 Ask me about ... How I can help you on what you are working on! I am alwways open to help and learn more. 
+- 💬 Ask me about ... How I can help you on what you are working on! I am always open to help and learn more. 
 - 📫 How to reach me: ... [Email Me!](mailto:sal.zamora480@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Before falling in love with coding, I built Hot Rods for a living. 
