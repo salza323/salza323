@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there! 👋 👨‍💻
 
-<!--
-**salza323/salza323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Sal and I am Full-Stack Web Developer on his way to break in-to Tech! 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on ... [Lambda Alumni Network] (https://github.com/Lambda-School-Labs/lan-fe-a)
+- 👯 I’m looking to collaborate on ... All of the projects! 
+- 🤔 I’m looking for help with ... All of the projects! 
+- 💬 Ask me about ... Anything!
+- 📫 How to reach me: ... [Email Me!] (mailto:sal.zamora480@gmail.com)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Before falling in love with coding, I built Hot Rods for a living. 
 -->
