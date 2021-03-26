@@ -1,4 +1,4 @@
-## Hey there, I am Sal! 👋 👨‍💻
+## Hey there, I'm Sal! 👋 👨‍💻
 
 
 ### My Passions
