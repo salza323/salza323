@@ -25,9 +25,11 @@
  - CSS
  - Javascript
  - React (w/ Redux / Context API)
+ - AngularJS
 
  #### Back End
  - Node
  - Express
  - SQL
  - PostgreSQL
+ - Java Spring
